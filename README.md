@@ -1,6 +1,34 @@
-I have developed a small application using Unsplash API with HTML, CSS, and JavaScript. This API will help the user to fetch the images from Unsplash site. Users can add any category of image and get the available images on the webpage. Moreover, users can load more images by clicking on the "show more" button. I have deployed this with the help of Surge which is a static web publishing tool that allows us to quickly and easily deploy static websites to the web.
+# 🖼️ Image Search Engine
 
----------------------------------
-Live Link:
-https://image_search_engine.surge.sh/
----------------------------------
+Welcome to my Image Search Engine! 🌟 Explore the world of stunning images with this small yet powerful application developed using the **`Unsplash API`**, HTML, CSS, and JavaScript. Discover a vast collection of high-quality images and unleash your creativity!
+
+## ✨ Features
+
+Discover the features of my Image Search Engine:
+- **Search by Image Category**: Enter any category of image to fetch available images from Unsplash.
+- **Load More Images**: Click on the "Show More" button to load additional images and expand your collection.
+- **Engaging Interface**: Enjoy an attractive interface that enhances your browsing experience.
+- **Download and Like**: Easily download or like images from the official Unsplash website.
+
+Ready to explore a world of breathtaking images? Let's get started! 🚀
+
+## 🛠️ Tech Stack
+
+Explore the technologies behind the magic:
+- JavaScript
+- HTML
+- CSS
+- Visual Studio Code
+
+## 🚀 Getting Started
+
+### Installation
+1. **Clone the project repository**:
+   ```bash
+   git clone https://github.com/khizraghaffarkk/Image-Search-Engine.git
+2. **Navigate to the project directory**:
+   ```bash
+   cd path/to/your/directory
+3. **Open the Terminal & Edit the Required File**
+
+**Explore it Live:** https://image_search_engine.surge.sh/
